@@ -52,4 +52,4 @@ module.exports = class extends Generator {
 
     this.fs.copyTpl(tmpl, output, context);
   }
-}
+};
